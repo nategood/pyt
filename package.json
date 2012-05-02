@@ -1,0 +1,10 @@
+{
+    "name": "pyt",
+    "version": "0.0.0",
+    "dependencies": {
+        "markdown": "0.3.*",
+        "jade": "0.25.*",
+        "stylus": "0.26.*",
+        "optimist": "0.3.*"
+    }
+}
