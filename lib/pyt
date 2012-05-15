@@ -1,4 +1,0 @@
-#!/usr/bin/env node
-
-var pyt = require('./pyt.js');
-pyt.cli(process.argv);

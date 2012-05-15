@@ -1,0 +1,12 @@
+doctype 5
+html(lang="en")
+  head
+    title= title
+    meta(name="author", content=author)
+    style(type="text/css")
+
+    each s in scripts
+        script(type='text/javascript')
+            !{s}
+  body
+    !{content}
